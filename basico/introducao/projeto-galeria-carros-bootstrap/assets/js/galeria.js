@@ -38,7 +38,7 @@ listaCarros.map((carro, posicao) =>{
     let cardCarro = document.getElementById("cards");
     cardCarro.innerHTML += `
            
-                <div class="col-md-4 col-xs-4 col-lg-4 col-12">
+                <div class="col-md-6 col-xs-4 col-lg-4 col-12">
                     <div class="card mb-5">
                         <img src="${carro.img}" class="card-img-top" alt="${carro.nome}">
                         <div class="card-body">
