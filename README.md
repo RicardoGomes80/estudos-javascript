@@ -1,2 +1,2 @@
-# Estudos em javascript
-Repositório para estudos de Java script  e Git
+# Estudos de Desenvolvimento
+Repositório para estudos  Banco de Dados / Javascript / Front / Fullstack / DevOps / Git
